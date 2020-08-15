@@ -1,4 +1,11 @@
-### Hi there 👋
+### Howdy :wave:
+
+Places you can find me on the internet
+
+- :bird: [Twitter](https://twitter.com/JTMcMenemy)
+- :pencil: [Medium](https://medium.com/@McMenemy)
+- :bust_in_silhouette: [LinkedIn](https://www.linkedin.com/in/jt-josh-mcmenemy-271980140/) 
+
 
 <!--
 **McMenemy/mcmenemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
