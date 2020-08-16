@@ -1,3 +1,3 @@
 ### Howdy :wave:
 
-[Learn more](https://www.mcmenemy.dev/)
+[Learn more about my digital footprint and friend's projects](https://www.mcmenemy.dev/)
